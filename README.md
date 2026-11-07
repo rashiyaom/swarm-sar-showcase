@@ -4,7 +4,7 @@
 
 **Recognition:** AI Manthan 2.0 National Hackathon winner, AITR; **₹50,000 prize** (recorded in the project résumé).
 
-**Source repository:** [rashiyaom/swarm-sar](https://github.com/rashiyaom/swarm-sar) (private implementation)
+**Documentation and narrated fieldbook:** [SWARM SAR — swarmsar.vercel.app](https://swarmsar.vercel.app)
 
 ## Mission concept
 
@@ -88,4 +88,4 @@ The portfolio résumé identifies SWARMOS as the AI Manthan 2.0 national hackath
 
 ## Repository
 
-This public project page presents the mission architecture and screenshots. The implementation, model experiments and robotics workspace remain private.
+This public project page presents the mission architecture, screenshots and research context. The linked fieldbook provides the visitor-facing documentation and narrated project story.
